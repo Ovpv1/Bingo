@@ -1,6 +1,9 @@
 ## Bingo
-### I built this Bingo with the purpose of: 
-- Challenging myself with new mechanics and logical problems
-- Practicing my coding skills and my knowlodge of the Python structures
-- Better understanding of computacional thinking
+### I built this Bingo game with the purpose of: 
+- Challenge myself with new mechanics and logical problems
+- Practice my coding skills and my knowledge of the Python structures
+- Better understand of computational thinking
 #### As I learn more, I'll keep improving the code
+#### Current Goals:
+- Add the other letters of the card
+- Improve game flow

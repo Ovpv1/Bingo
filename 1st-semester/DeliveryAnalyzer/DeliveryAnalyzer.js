@@ -42,8 +42,11 @@ function valorEntregasTotal(entregas){
     return total
 }
 
+
+
+
 for(let i = 1; i<=10; i++){
-    let numEntrega = 'id'+ i //Faz o cadastro do número da entrega
+    let numEntrega = 'ID:'+ i //Faz o cadastro do número da entrega
     let veiculo
     let peso
     let clima
@@ -77,7 +80,7 @@ for(let i = 1; i<=10; i++){
 
     //Recebe o peso da entrega
     while(true){
-        let peso = parseInt(prompt('Digite qual o peso da entrega, em Kg: '))
+        peso = parseInt(prompt('Digite qual o peso da entrega, em Kg: '))
         if(isNaN(peso) || peso <= 0){
             console.log('Digite um valor válido.\n')
         } else{

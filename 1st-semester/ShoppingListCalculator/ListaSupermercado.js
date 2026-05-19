@@ -1,3 +1,5 @@
+//const prompt = require('prompt-sync')();
+
 //Caso o valor total dos pedidos seja superior a R$200,00, o cliente receberá um desconto de 15% no valor total da conta.
 function verificarDesconto(pedidos){
     let valor = 0
